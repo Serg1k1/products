@@ -1,0 +1,11 @@
+.page__container {
+	display: grid;
+	grid-template-columns: 300px auto;
+	gap: 30px;
+}
+
+@media (max-width: 645px) {
+	.page__container {
+		grid-template-columns: auto;
+	}
+}

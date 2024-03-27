@@ -1,0 +1,56 @@
+.filters {
+	border: 1px solid #ccc;
+	border-radius: 12px;
+	padding: 20px 15px 20px 20px;
+	height: 400px;
+}
+
+.filters__title {
+	font-size: 18px;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+
+.filters__sort-select {
+	border: 1px solid #ccc;
+	width: 100%;
+	padding: 10px;
+}
+
+.filters__sort-price {
+	margin-bottom: 15px;
+}
+.filters__type {
+	margin-bottom: 15px;
+}
+
+.filter__type-buttons {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.btn {
+	padding: 10px;
+	transition: all 0.3s ease;
+	cursor: pointer;
+}
+
+.btn:hover {
+	background-color: #0f0f0f;
+	color: #fff;
+}
+
+.active {
+	background-color: #0f0f0f;
+	color: #fff;
+}
+
+.filter__range {
+}
+
+@media (max-width: 645px) {
+	.filters {
+		height: auto;
+	}
+}

@@ -1,0 +1,20 @@
+.header {
+	padding-top: 20px;
+}
+.header:not(:last-child) {
+	margin-bottom: 30px;
+}
+.header__container {
+	display: grid;
+}
+.header__label {
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.header__input {
+	border: 1px solid #ccc;
+	border-radius: 12px;
+	height: 30px;
+	padding: 5px 20px;
+	font-size: 18px;
+}

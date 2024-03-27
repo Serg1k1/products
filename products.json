@@ -1,0 +1,159 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "image": "https://www.itaf.eu/wp-content/uploads/2021/01/Best-laptops-in-2021-7-things-to-consider-when-buying-a-laptop.jpg",
+        "title": "Lenovo",
+        "description": "some description",
+        "price": 120,
+        "category": "laptops"
+      },
+      {
+        "id": 2,
+        "image": "https://static.pcbuilder.net/assets/images/builds/pc-builds.jpg",
+        "title": "Acer",
+        "description": "some description",
+        "price": 550,
+        "category": "pc"
+      },
+      {
+        "id": 3,
+        "image": "https://www.telstra.com.au/content/dam/tcom/library/prd-product/general/PRD-orbic-tablet8-headerDesktopShort-692x400-2x.jpg",
+        "description": "Ipad",
+        "title": "Ipad",
+        "price": 10,
+        "category": "tablet"
+      },
+      {
+        "id": 4,
+        "image": "https://images.macrumors.com/t/rVFMv95D6F0qtw436lHIuu0-p4I=/1600x/article-new/2020/10/iphone-13-models.jpg",
+        "description": "Iphone",
+        "title": "Iphone",
+        "price": 50,
+        "category": "phones"
+      },
+      {
+        "id": 5,
+        "image": "https://static.pcbuilder.net/assets/images/builds/pc-builds.jpg",
+        "title": "Lenovo",
+        "description": "some description",
+        "price": 200,
+        "category": "laptops"
+      },
+      {
+        "id": 6,
+        "image": "https://static.pcbuilder.net/assets/images/builds/pc-builds.jpg",
+        "title": "Acer",
+        "description": "some description",
+        "price": 210,
+        "category": "pc"
+      },
+      {
+        "id": 7,
+        "image": "https://cdn.mos.cms.futurecdn.net/CjBJHD32x6Jo5m7HgVaoBD-1200-80.jpg",
+        "description": "Ipad",
+        "title": "Ipad",
+        "price": 300,
+        "category": "tablet"
+      },
+      {
+        "id": 8,
+        "image": "https://m-cdn.phonearena.com/images/article/64576-wide-two_1200/The-Best-Phones-to-buy-in-2024---our-top-10-list.jpg",
+        "description": "Iphone",
+        "title": "Iphone",
+        "price": 350,
+        "category": "phones"
+      },
+      {
+        "id": 9,
+        "image": "https://static.pcbuilder.net/assets/images/builds/pc-builds.jpg",
+        "title": "Lenovo",
+        "description": "some description",
+        "price": 99,
+        "category": "laptops"
+      },
+      {
+        "id": 10,
+        "image": "https://static.pcbuilder.net/assets/images/builds/pc-builds.jpg",
+        "title": "Acer",
+        "description": "some description",
+        "price": 40,
+        "category": "pc"
+      },
+      {
+        "id": 11,
+        "image": "https://www.telstra.com.au/content/dam/tcom/library/prd-product/general/PRD-orbic-tablet8-headerDesktopShort-692x400-2x.jpg",
+        "description": "Ipad",
+        "title": "Ipad",
+        "price": 900,
+        "category": "tablet"
+      },
+      {
+        "id": 12,
+        "image": "https://images.macrumors.com/t/rVFMv95D6F0qtw436lHIuu0-p4I=/1600x/article-new/2020/10/iphone-13-models.jpg",
+        "description": "Iphone",
+        "title": "Iphone",
+        "price": 50,
+        "category": "phones"
+      },
+      {
+        "id": 13,
+        "image": "https://www.itaf.eu/wp-content/uploads/2021/01/Best-laptops-in-2021-7-things-to-consider-when-buying-a-laptop.jpg",
+        "title": "Lenovo",
+        "description": "some description",
+        "price": 200,
+        "category": "laptops"
+      },
+      {
+        "id": 14,
+        "image": "https://static.pcbuilder.net/assets/images/builds/pc-builds.jpg",
+        "title": "Acer",
+        "description": "some description",
+        "price": 210,
+        "category": "pc"
+      },
+      {
+        "id": 15,
+        "image": "https://cdn.mos.cms.futurecdn.net/CjBJHD32x6Jo5m7HgVaoBD-1200-80.jpg",
+        "description": "Ipad",
+        "title": "Ipad",
+        "price": 300,
+        "category": "tablet"
+      },
+      {
+        "id": 16,
+        "image": "https://m-cdn.phonearena.com/images/article/64576-wide-two_1200/The-Best-Phones-to-buy-in-2024---our-top-10-list.jpg",
+        "description": "Iphone",
+        "title": "Iphone",
+        "price": 350,
+        "category": "phones"
+      }
+    ],
+    "filters": [
+      {
+        "id": 1,
+        "name": "all",
+        "label": "all"
+      },
+      {
+        "id": 2,
+        "name": "laptops",
+        "label": "laptops"
+      },
+      {
+        "id": 3,
+        "name": "pc",
+        "label": "pc"
+      },
+      {
+        "id": 4,
+        "name": "tablet",
+        "label": "tablet"
+      },
+      {
+        "id": 5,
+        "name": "phones",
+        "label": "phones"
+      }
+    ]
+  }

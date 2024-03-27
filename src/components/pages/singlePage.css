@@ -1,0 +1,49 @@
+.single__container {
+}
+.single__back-link {
+	padding-top: 20px;
+	margin-bottom: 40px;
+	display: block;
+	font-size: 25px;
+	transition: all 0.3s ease;
+}
+
+.single__back-link:hover {
+	color: #5c5c5c;
+}
+
+.single__info {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 40px;
+}
+.single__info img {
+	width: 100%;
+}
+.single__content {
+}
+.single__title {
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.single__title:not(:last-child) {
+	margin-bottom: 20px;
+}
+.single__description {
+	font-size: 20px;
+}
+
+.single__description:not(:last-child) {
+	margin-bottom: 20px;
+}
+
+.single__price {
+	font-size: 18px;
+}
+
+@media (max-width: 600px) {
+	.single__info {
+		grid-template-columns: auto;
+	}
+}
